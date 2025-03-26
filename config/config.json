@@ -1,0 +1,24 @@
+{
+    "prefix": "!",
+    "defaultVolume": 50,
+    "maxQueueSize": 100,
+    "color": "#7289DA",
+    "economy": {
+        "startingBalance": 1000,
+        "dailyReward": 100,
+        "workReward": {
+            "min": 50,
+            "max": 200
+        }
+    },
+    "moderation": {
+        "maxWarnings": 3,
+        "muteDuration": 3600000,
+        "autoModEnabled": true
+    },
+    "music": {
+        "defaultVolume": 50,
+        "maxQueueSize": 100,
+        "leaveTimeout": 300000
+    }
+} 

@@ -1,0 +1,44 @@
+{
+  "name": "discord-multi-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot with music, economy, and admin features",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/discord-multi-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music",
+    "economy"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/discord-multi-bot/issues"
+  },
+  "homepage": "https://github.com/your-username/discord-multi-bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.1",
+    "discord-player": "^6.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "ffmpeg-static": "^5.2.0",
+    "moment": "^2.30.1",
+    "sqlite3": "^5.1.7",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "nodemon": "^3.1.0"
+  }
+}
