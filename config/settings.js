@@ -1,6 +1,6 @@
 module.exports = {
     defaultSettings: {
-        prefix: '!',
+        prefix: '>',
         djRole: 'DJ',
         adminRole: 'Admin',
         modRole: 'Moderator',

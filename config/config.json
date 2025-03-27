@@ -1,5 +1,5 @@
 {
-    "prefix": "!",
+    "prefix": ">",
     "defaultVolume": 50,
     "maxQueueSize": 100,
     "color": "#7289DA",

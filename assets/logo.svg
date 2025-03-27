@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Фон -->
+    <circle cx="100" cy="100" r="90" fill="#7289DA"/>
+    
+    <!-- Внешний круг -->
+    <circle cx="100" cy="100" r="85" fill="none" stroke="white" stroke-width="5"/>
+    
+    <!-- Внутренний круг -->
+    <circle cx="100" cy="100" r="75" fill="none" stroke="white" stroke-width="3"/>
+    
+    <!-- Символ бота -->
+    <path d="M100 40 L100 160 M40 100 L160 100" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    
+    <!-- Декоративные элементы -->
+    <circle cx="100" cy="100" r="10" fill="white"/>
+    <circle cx="100" cy="100" r="5" fill="#7289DA"/>
+</svg> 
